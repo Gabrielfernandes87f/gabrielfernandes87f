@@ -1,16 +1,25 @@
-### Hi there 👋
+# Olá dev 👋
+## hi, im Gabriel Fernandes
 
-<!--
-**Gabrielfernandes87f/gabrielfernandes87f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm learning programming 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" src="https://github.com/fergracianoo/fergracianoo/blob/master/images/illustration.png" width="300"/>
+
+
+
+
+**learning technologies** 🤩
+
+- **let's go next level together**
+
+[![Instagram Badge](https://img.shields.io/badge/-Gabriel.fernandes.blade-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://https://www.instagram.com/gabrielfernandes87s/)](https://www.instagram.com/gabrielfernandes87s/) 
+
+
+
+- 🔭 I’m currently working on project with laravel
+- 🌱 I’m currently learning web develeper
+- 👯 I’m looking to collaborate on https://github.com/Gabrielfernandes87f/laravelpages
+
+- 📫 How to reach me: https://gabrielfernandesweb.online
+

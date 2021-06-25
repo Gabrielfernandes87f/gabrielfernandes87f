@@ -1,11 +1,10 @@
 # Olá dev 👋
 ## hi, i'm Gabriel Fernandes
 
-I'm learning programming 
-
-
-##  Hello! Welcome to my profile 🇧🇷 
 <img src="https://github.com/marcio1002/marcio1002/blob/master/imgs/oie_source.gif?w=512" width=100 heigth=100 align="right"/>
+
+- I'm learning programming 
+
 
 **learning many technologies** 🤩
 

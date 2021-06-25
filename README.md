@@ -1,5 +1,5 @@
 # Olá dev 👋
-## hi, im Gabriel Fernandes
+## hi, i'm Gabriel Fernandes
 
 I'm learning programming 
 

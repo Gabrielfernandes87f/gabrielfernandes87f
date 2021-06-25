@@ -7,7 +7,7 @@ I'm learning programming
 <img align="right" src="https://github.com/fergracianoo/fergracianoo/blob/master/images/illustration.png" width="300"/>
 
 
-**learning technologies** 🤩
+**learning many technologies** 🤩
 
 - **let's go next level together**
 

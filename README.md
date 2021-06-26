@@ -19,7 +19,8 @@
 
 - 🔭 I’m currently working on project with laravel
 - 🌱 I’m currently learning web develeper
-- 👯 I’m looking to collaborate on https://github.com/Gabrielfernandes87f/laravelpages <img align="right" src="https://github.com/Gabrielfernandes87f/gabrielfernandes87f/blob//main/imgs/illustration.png" width="300"/>
+- 👯 I’m looking to collaborate on 
+- [Comecei um projeto para trabalhar em equipe. Junte-se a nós clicando aqui](https://github.com/Gabrielfernandes87f/laravelpages) <img align="right" src="https://github.com/Gabrielfernandes87f/gabrielfernandes87f/blob//main/imgs/illustration.png" width="300"/>
 
 
 

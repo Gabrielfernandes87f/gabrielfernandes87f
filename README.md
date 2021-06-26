@@ -23,7 +23,8 @@
 
 
 
-- 📫 How to reach me: https://gabrielfernandesweb.online
+- 📫 How to reach me: 
+- [Veja meu site feito com WordPress aqui](https://gabrielfernandesweb.online)
 - [![Instagram Badge](https://img.shields.io/badge/-Gabriel.fernandes.blade-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://https://www.instagram.com/gabrielfernandes87s/)](https://www.instagram.com/gabrielfernandes87s/) 
 
 <p align="left">

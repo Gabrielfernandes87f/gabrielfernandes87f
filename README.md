@@ -57,8 +57,7 @@
 </p>
 
 - 📫 How to reach me: 
-- [![Instagram Badge](https://img.shields.io/badge/-Gabriel.fernandes.blade-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://https://www.instagram.com/gabrielfernandes87s/)](https://www.instagram.com/gabrielfernandes87s/) 
-- <a href="linkedin.com/in/gabriel-fernandes-762465213/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" title="gabriel's LinkedIn" alt="LinkedIn Badge" /></a>
+- [![Instagram Badge](https://img.shields.io/badge/-Gabriel.Fernandes.f-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/Gabriel.Fernandes.f/)](https://www.instagram.com/Gabriel.Fernandes.f/) 
 - <a href="mailto:gabrielfernandesfotografias@outlook.com"><img src="https://img.shields.io/badge/Outlook-EA4335?style=for-the-badge&logo=Outlook&logoColor=white" title="Gabriel's E-mail" alt="E-mail Badge" /></a>
 
  ## Total de Visitas no perfil :detective: <br>

@@ -1,17 +1,42 @@
-# Olá dev 👋
-## i'm Gabriel Fernandes
+
+## Olá dev 👋   i'm Gabriel Fernandes
 
 <img src="https://github.com/Gabrielfernandes87f/gabrielfernandes87f/blob/main/imgs/oie_source.gif?w=512" width=100 heigth=100 align="right"/>
+ 
 
 
 - I'm learning programming 
 
+**Learning many technologies** 🤩
 
-**learning many technologies** 🤩
+*** 
+
+## Technologies :nerd_face:
+
+<p align="center">
+    <img height="40" src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/nodejs/nodejs-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="35px"/>
+     &nbsp;
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" height="35px"/> 
+    &nbsp;
+    <img src="https://ioiodesign.com/wp-content/uploads/2020/10/Photoshop-logo.png" height="35px" />    
+    &nbsp; 
+</p>
 
 ***
-
-
 
 
 
@@ -20,18 +45,21 @@
 - 🔭 I’m currently working on project with laravel
 - 🌱 I’m currently learning web develeper
 - 👯 I’m looking to collaborate on 
-- [Comecei um projeto para trabalhar em equipe. Junte-se a nós clicando aqui](https://github.com/Gabrielfernandes87f/laravelpages) <img align="right" src="https://github.com/Gabrielfernandes87f/gabrielfernandes87f/blob//main/imgs/illustration.png" width="300"/>
+- [Comecei um projeto para trabalhar em equipe. Junte-se a nós clicando aqui](https://github.com/Gabrielfernandes87f/laravelpages) 
+
+<img align="right" src="https://github.com/Gabrielfernandes87f/gabrielfernandes87f/blob//main/imgs/illustration.png" width="300"/>
 
 
-
-- 📫 How to reach me: 
 - [Veja meu site feito com WordPress aqui](https://gabrielfernandesweb.online)
-- [![Instagram Badge](https://img.shields.io/badge/-Gabriel.fernandes.blade-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://https://www.instagram.com/gabrielfernandes87s/)](https://www.instagram.com/gabrielfernandes87s/) 
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielfernandes87f&layout=compact&langs_count=8&hide=Blade,Shell&theme=dark" title="Gabriel alt="Gabriel's Top Langs"/>
 </p>
 
+- 📫 How to reach me: 
+- [![Instagram Badge](https://img.shields.io/badge/-Gabriel.fernandes.blade-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://https://www.instagram.com/gabrielfernandes87s/)](https://www.instagram.com/gabrielfernandes87s/) 
+- <a href="linkedin.com/in/gabriel-fernandes-762465213/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" title="gabriel's LinkedIn" alt="LinkedIn Badge" /></a>
+- <a href="mailto:gabrielfernandesfotografias@outlook.com"><img src="https://img.shields.io/badge/Outlook-EA4335?style=for-the-badge&logo=Outlook&logoColor=white" title="Gabriel's E-mail" alt="E-mail Badge" /></a>
 
  ## Total de Visitas no perfil :detective: <br>
  <p align="center"> 

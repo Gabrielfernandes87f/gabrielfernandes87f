@@ -32,3 +32,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielfernandes87f&layout=compact&langs_count=8&hide=Blade,Shell&theme=dark" title="Gabriel alt="Gabriel's Top Langs"/>
 </p>
 
+
+ ## Total de Visitas no perfil :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/Gabrielfernandes87f/count.svg" />
+ </p>
+

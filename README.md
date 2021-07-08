@@ -1,4 +1,6 @@
 
+![](https://github.com/Gabrielfernandes87f/laravelpages/blob/main/public/image/_RSF7724.jpg)
+
 ## Olá dev 👋   i'm Gabriel Fernandes
 
 <img src="https://github.com/Gabrielfernandes87f/gabrielfernandes87f/blob/main/imgs/oie_source.gif?w=512" width=100 heigth=100 align="right"/>
@@ -30,6 +32,8 @@
     &nbsp;&nbsp;
     <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="35px"/>
      &nbsp;
+     <img src="https://github.com/Gabrielfernandes87f/laravelpages/blob/main/public/image/logo.png" height="35px"/> 
+    &nbsp;
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" height="35px"/> 
     &nbsp;
     <img src="https://ioiodesign.com/wp-content/uploads/2020/10/Photoshop-logo.png" height="35px" />    

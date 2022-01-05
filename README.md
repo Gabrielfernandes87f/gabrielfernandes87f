@@ -54,7 +54,7 @@
 <img align="right" src="https://github.com/Gabrielfernandes87f/gabrielfernandes87f/blob//main/imgs/illustration.png" width="300"/>
 
 
-- [Veja meu site feito com WordPress aqui](https://gabrielfernandesweb.online)
+
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielfernandes87f&layout=compact&langs_count=8&hide=Blade,Shell&theme=dark" title="Gabriel alt="Gabriel's Top Langs"/>

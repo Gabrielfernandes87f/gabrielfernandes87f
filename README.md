@@ -34,7 +34,7 @@
      &nbsp;
      <img src="https://github.com/Gabrielfernandes87f/laravelpages/blob/main/public/image/logo.png" height="35px"/> 
     &nbsp;
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" height="35px"/> 
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" height="35px"/> 
     &nbsp;
     <img src="https://ioiodesign.com/wp-content/uploads/2020/10/Photoshop-logo.png" height="35px" />    
     &nbsp; 

@@ -1,19 +1,21 @@
 
 ![](https://github.com/Gabrielfernandes87f/laravelpages/blob/main/public/image/_RSF7724.jpg)
 
-## Olá dev 👋   i'm Gabriel Fernandes
-
+## Olá dev 👋   Eu sou Gabriel Fernandes,
+<p align="center">
+Desenvolvedor fullstack/DevOps jr - Laravel
+</p>
 <img src="https://github.com/Gabrielfernandes87f/gabrielfernandes87f/blob/main/imgs/oie_source.gif?w=512" width=100 heigth=100 align="right"/>
  
 
 
-- I'm learning programming 
+- Eu sou engenheiro de software
 
-**Learning many technologies** 🤩
+**Estou aprendendo muitas tecnologias** 🤩
 
 *** 
 
-## Technologies :nerd_face:
+## tech's :nerd_face:
 
 <p align="center">
     <img height="35" src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg">
@@ -44,12 +46,11 @@
 
 
 
-- **let's go next level together**
 
-- 🔭 I’m currently working on project with laravel
-- 🌱 I’m currently learning web develeper
-- 👯 I’m looking to collaborate on 
-- [Comecei um novo projeto, um site de fotografias.](https://github.com/Gabrielfernandes87f/laravel-project-photographs) 
+- Estou trabalhando no repositorio ProjectApi com outro colaborador <br> além de mim, nela vou pegar alguns dados da api do github e jogar dentro da minha api.
+<br>
+- em breve mais atualização sobre;
+
 
 <img align="right" src="https://github.com/Gabrielfernandes87f/gabrielfernandes87f/blob//main/imgs/illustration.png" width="300"/>
 

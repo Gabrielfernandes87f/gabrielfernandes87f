@@ -3,7 +3,7 @@
 
 ## Olá dev 👋   Eu sou Gabriel Fernandes,
 <p align="center">
-Desenvolvedor fullstack/DevOps jr - Laravel
+Desenvolvedor fullstack/DevOps - Laravel - Nuxt
 </p>
 <img src="https://github.com/Gabrielfernandes87f/gabrielfernandes87f/blob/main/imgs/oie_source.gif?w=512" width=100 heigth=100 align="right"/>
  

@@ -9,7 +9,7 @@ Desenvolvedor fullstack/DevOps - Laravel - NuxtJs
  
 
 
-- Eu sou engenheiro de software
+-engenheiro de software
 
 **Estou aprendendo muitas tecnologias** 🤩
 
@@ -19,6 +19,8 @@ Desenvolvedor fullstack/DevOps - Laravel - NuxtJs
 
 <p align="center">
     <img height="35" src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg">
+     &nbsp;&nbsp;
+    <img width="40px" src="https://camo.githubusercontent.com/c8edb8c44c6d5779eb077924888a4f39f134339bea41d6b242a40a6755215552/687474703a2f2f696d6775722e636f6d2f56344c746f49492e706e67">
     &nbsp;&nbsp;
     <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     &nbsp;&nbsp;
@@ -30,7 +32,7 @@ Desenvolvedor fullstack/DevOps - Laravel - NuxtJs
     &nbsp;&nbsp;
     <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
     &nbsp;&nbsp;
-    <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/nodejs/nodejs-original.svg">
+     <img width="40px" src="https://camo.githubusercontent.com/45b47c60e24a89695a9ae14ab4d6d22a6e51bd3b9aefdf88eca38b0035ce4dd5/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f70726163746963616c6465762f696d6167652f66657463682f732d2d4a586c4678316e652d2d2f635f696d616767615f7363616c652c665f6175746f2c666c5f70726f67726573736976652c685f3930302c715f6175746f2c775f313630302f68747470733a2f2f6465762d746f2d75706c6f6164732e73332e616d617a6f6e6177732e636f6d2f692f6633306872696a3568336a376774326b6c6263752e6a7067">
     &nbsp;&nbsp;
     <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="35px"/>
      &nbsp;
@@ -38,8 +40,6 @@ Desenvolvedor fullstack/DevOps - Laravel - NuxtJs
     &nbsp;
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" height="35px"/> 
     &nbsp;
-    <img src="https://ioiodesign.com/wp-content/uploads/2020/10/Photoshop-logo.png" height="35px" />    
-    &nbsp; 
 </p>
 
 ***

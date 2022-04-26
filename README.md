@@ -1,10 +1,13 @@
 
 ![](https://github.com/Gabrielfernandes87f/laravelpages/blob/main/public/image/_RSF7724.jpg)
 
-## Olá dev 👋   Eu sou Gabriel Fernandes,
-<p align="center">
+## Olá dev 👋
+<h3 align="center">
+Eu sou Gabriel Fernandes
+</h3>
+<h3 align="center">
 Desenvolvedor fullstack/DevOps - Laravel - NuxtJs
-</p>
+</h3>
 <img src="https://github.com/Gabrielfernandes87f/gabrielfernandes87f/blob/main/imgs/oie_source.gif?w=512" width=100 heigth=100 align="right"/>
  
 

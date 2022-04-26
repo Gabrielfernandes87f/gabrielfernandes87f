@@ -9,7 +9,7 @@ Desenvolvedor fullstack/DevOps - Laravel - NuxtJs
  
 
 
--engenheiro de software
+- engenheiro de software
 
 **Estou aprendendo muitas tecnologias** 🤩
 

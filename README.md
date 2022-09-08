@@ -6,7 +6,7 @@
 Eu sou Gabriel Fernandes
 </h3>
 <h3 align="center">
-Desenvolvedor fullstack/DevOps - Laravel - NuxtJs
+Nuxt.js | Vue.js | Laravel | SQL | Adonis.js
 </h3>
 <img src="https://github.com/Gabrielfernandes87f/gabrielfernandes87f/blob/main/imgs/oie_source.gif?w=512" width=100 heigth=100 align="right"/>
  

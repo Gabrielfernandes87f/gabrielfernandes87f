@@ -6,7 +6,7 @@
 Eu sou Gabriel Fernandes
 </h3>
 <h3 align="center">
-Nuxt.js | Vue.js | Laravel | SQL | Adonis.js
+Nuxt.js | Vue.js | PHP | Laravel | SQL | MySQL | Tailwind | Docker | Sail | linux | DevOps
 </h3>
 <img src="https://github.com/Gabrielfernandes87f/gabrielfernandes87f/blob/main/imgs/oie_source.gif?w=512" width=100 heigth=100 align="right"/>
  
@@ -50,9 +50,14 @@ Nuxt.js | Vue.js | Laravel | SQL | Adonis.js
 
 
 
-- Estou trabalhando no repositorio ProjectApi com outro colaborador <br> além de mim, nela vou pegar alguns dados da api do github e jogar dentro da minha api.
-<br>
-- em breve mais atualização sobre;
+- As vezes eu fico um pouco ausente, alguns projetos eu ainda nao atualizei pq estou aprendendo coisas novas, em breve eu irei atualizar varios projetos e criar outros.
+- Tudo que aprendo em laravel eu tento replicar com Nuxt.js. Estou progredido muito nesses dois framework.
+- Minha vida não se resume apenas aprogramação, tenho outros curso que faço em paralelo, como inglês, pretendo ficar fluente logo. Hoje eu tenho estudado muito pra conseguir meu espaço no mercado como desenvolvedor fullstack web. 
+- Eu sou de uma geração que não fez faculdade, nem frequentou cursos na area de programação. Eu sou autodidata, eu mesmo pesquiso o que desejo aprender e aprendo sozinho. 
+- Ultimamente tenho trabalhado com sistema linux, acho interessante, pq quando eu vou colocar meus projetos em produção eu faço o deploy em uma distruição linux, ficar em constante contato com a distro tras clareza na hora de trabalhar no servidor. 
+- Eu sou apaixonado por tecnologia, arduino, robotica, automação residencial, automaçao de veiculos. mas tenho que focar em algo ou acabo não aprendendo nada. escolhi o desenvolvimento web. 
+- Eu ja tenho muito experiência e ainda não me sinto capaz de começar um trabalho, eu não gosto de ser chamado atenção, procuro entregar o meu melhor
+- em breve eu eu sei que vai chegar o meu tão sonhado SIM
 
 
 <img align="right" src="https://github.com/Gabrielfernandes87f/gabrielfernandes87f/blob//main/imgs/illustration.png" width="300"/>

@@ -3,73 +3,64 @@
 
 ## Olá dev 👋
 <h3 align="center">
-Eu sou Gabriel Fernandes
+Gabriel Fernandes
 </h3>
-<h3 align="center">
-Nuxt.js | Vue.js | PHP | Laravel | SQL | MySQL | Tailwind | Docker | Sail | linux | DevOps
-</h3>
+
+<p align="center">
+Nuxt.js | Vue.js | PHP | Laravel | Filament | linux 
+</p>
 <img src="https://github.com/Gabrielfernandes87f/gabrielfernandes87f/blob/main/imgs/oie_source.gif?w=512" width=100 heigth=100 align="right"/>
  
 
 
-- engenheiro de software
+ Engenheiro de software 🤩
 
-**Estou aprendendo muitas tecnologias** 🤩
-
-*** 
-
-## tech's :nerd_face:
-
-<p align="center">
-    <img height="35" src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg">
-     &nbsp;&nbsp;
-    <img width="40px" src="https://camo.githubusercontent.com/c8edb8c44c6d5779eb077924888a4f39f134339bea41d6b242a40a6755215552/687474703a2f2f696d6775722e636f6d2f56344c746f49492e706e67">
-    &nbsp;&nbsp;
-    <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    &nbsp;&nbsp;
-    <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    &nbsp;&nbsp;
-    <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    &nbsp;&nbsp;
-    <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-    &nbsp;&nbsp;
-    <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
-    &nbsp;&nbsp;
-     <img width="40px" src="https://camo.githubusercontent.com/45b47c60e24a89695a9ae14ab4d6d22a6e51bd3b9aefdf88eca38b0035ce4dd5/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f70726163746963616c6465762f696d6167652f66657463682f732d2d4a586c4678316e652d2d2f635f696d616767615f7363616c652c665f6175746f2c666c5f70726f67726573736976652c685f3930302c715f6175746f2c775f313630302f68747470733a2f2f6465762d746f2d75706c6f6164732e73332e616d617a6f6e6177732e636f6d2f692f6633306872696a3568336a376774326b6c6263752e6a7067">
-    &nbsp;&nbsp;
-    <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="35px"/>
-     &nbsp;
-     <img src="https://github.com/Gabrielfernandes87f/laravelpages/blob/main/public/image/logo.png" height="35px"/> 
-    &nbsp;
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" height="35px"/> 
-    &nbsp;
-</p>
-
-***
+## :nerd_face:
 
 
+### Sobre Mim
 
+Olá! Sou um entusiasta da tecnologia com uma jornada única no mundo do desenvolvimento de software. Inicialmente, fui atraído pela curiosidade de explorar as possibilidades oferecidas por Python e Java. No entanto, foi quando um amigo me introduziu ao Laravel que minha paixão pelo desenvolvimento realmente decolou.
 
-- As vezes eu fico um pouco ausente, alguns projetos eu ainda nao atualizei pq estou aprendendo coisas novas, em breve eu irei atualizar varios projetos e criar outros.
-- Tudo que aprendo em laravel eu tento replicar com Nuxt.js. Estou progredido muito nesses dois framework.
-- Minha vida não se resume apenas aprogramação, tenho outros curso que faço em paralelo, como inglês, pretendo ficar fluente logo. Hoje eu tenho estudado muito pra conseguir meu espaço no mercado como desenvolvedor fullstack web. 
-- Eu sou de uma geração que não fez faculdade, nem frequentou cursos na area de programação. Eu sou autodidata, eu mesmo pesquiso o que desejo aprender e aprendo sozinho. 
-- Ultimamente tenho trabalhado com sistema linux, acho interessante, pq quando eu vou colocar meus projetos em produção eu faço o deploy em uma distruição linux, ficar em constante contato com a distro tras clareza na hora de trabalhar no servidor. 
-- Eu sou apaixonado por tecnologia, arduino, robotica, automação residencial, automaçao de veiculos. mas tenho que focar em algo ou acabo não aprendendo nada. escolhi o desenvolvimento web. 
-- Eu ja tenho muito experiência e ainda não me sinto capaz de começar um trabalho, eu não gosto de ser chamado atenção, procuro entregar o meu melhor
-- em breve eu eu sei que vai chegar o meu tão sonhado SIM
+Desde então, mergulhei de cabeça no universo do Laravel e nunca mais parei de estudar e crescer como desenvolvedor. O poder e a elegância deste framework me cativaram instantaneamente, e desde então tenho dedicado meu tempo e energia para aprimorar minhas habilidades e explorar todo o seu potencial.
+
+### Habilidades
+
+- Linguagens: PHP, javascript
+- Frameworks: Laravel, Nuxt.js, Vue.js
+- Ferramentas: Filament, Pinia, Tailwind CSS
+- Banco de Dados: MySQL (Banco de Dados Relacional)
+- Ferramentas de Desenvolvimento: Docker, Sail, Linux, CI/CD, Insomnia, Trello, Scrum
+- Outras habilidades: Desenvolvimento de API, API REST, Implementação de regras de negócio, Análise de requisitos, Análise de negócios, CEO, Comunicação
+
+### Princípios SOLID e Framework Scrum
+
+Ao aplicar os princípios SOLID e seguir o framework Scrum, tenho obtido resultados significativos em termos de qualidade, eficiência e satisfação do cliente em meus projetos. Estou comprometido em continuar aprimorando minhas habilidades e práticas, sempre em busca da excelência no desenvolvimento de software.
+ 
+
+### Experiência
+
+Ao longo da minha jornada, tive o privilégio de contribuir para uma variedade de projetos desafiadores e empolgantes. Desde startups inovadoras até grandes empresas, sempre busquei superar expectativas e entregar soluções de alta qualidade.
+
+### Compromisso
+
+Estou constantemente buscando aprender e crescer como desenvolvedor, sempre disposto a enfrentar novos desafios e explorar novas tecnologias. Meu compromisso é fornecer soluções inovadoras e eficazes que impulsionem o sucesso dos projetos em que estou envolvido.
+
+## Entre em Contato
+
+Se você está procurando um desenvolvedor comprometido, apaixonado e sempre em busca de excelência, estou pronto para colaborar em projetos desafiadores e emocionantes. Vamos criar algo incrível juntos! 🚀💻
+
+<br/>
 
 
 <img align="right" src="https://github.com/Gabrielfernandes87f/gabrielfernandes87f/blob//main/imgs/illustration.png" width="300"/>
-
-
 
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielfernandes87f&layout=compact&langs_count=8&hide=Blade,Shell&theme=dark" title="Gabriel alt="Gabriel's Top Langs"/>
 </p>
 
-- 📫 How to reach me: 
+- 📫 Contato:
 - [![Instagram Badge](https://img.shields.io/badge/-Gabriel.Fernandes.f-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/Gabriel.Fernandes.f/)](https://www.instagram.com/Gabriel.Fernandes.f/) 
 - <a href="mailto:gabrielfernandesfotografias@outlook.com"><img src="https://img.shields.io/badge/Outlook-EA4335?style=for-the-badge&logo=Outlook&logoColor=white" title="Gabriel's E-mail" alt="E-mail Badge" /></a>
 

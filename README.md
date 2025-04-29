@@ -20,7 +20,7 @@ Nuxt.js | Vue.js | PHP | Laravel | Filament | linux
 
 ### Sobre Mim
 
-Olá! Sou um entusiasta da tecnologia com uma jornada única no mundo do desenvolvimento de software. Inicialmente, fui atraído pela curiosidade de explorar as possibilidades oferecidas por Python e Java. No entanto, foi quando um amigo me introduziu ao Laravel que minha paixão pelo desenvolvimento realmente decolou.
+Olá! Sou um entusiasta da tecnologia com uma jornada única no mundo do desenvolvimento de software. Inicialmente, fui atraído pela curiosidade de explorar as possibilidades oferecidas por Python e Java. No entanto, foi quando um amigo me apresentou o Laravel que minha paixão pelo desenvolvimento realmente decolou.
 
 Desde então, mergulhei de cabeça no universo do Laravel e nunca mais parei de estudar e crescer como desenvolvedor. O poder e a elegância deste framework me cativaram instantaneamente, e desde então tenho dedicado meu tempo e energia para aprimorar minhas habilidades e explorar todo o seu potencial.
 
